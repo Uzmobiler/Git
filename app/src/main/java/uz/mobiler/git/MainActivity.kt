@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         // push
 
         // cmd
+        // as terminal
+        // as
     }
 }
