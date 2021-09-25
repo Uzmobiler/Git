@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         // commit
         // pull
         // push
+
+        // cmd
     }
 }
