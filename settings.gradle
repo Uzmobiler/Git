@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Git"
 include ':app'
+include ':PDPToastLib'
+include ':Library'

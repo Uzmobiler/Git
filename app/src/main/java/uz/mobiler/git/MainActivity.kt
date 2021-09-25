@@ -8,18 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // github
-        // gitlab
-        // bitbucket
-        
-        // todo: Github project for example
-        
-        // commit
-        // pull
-        // push
-
-        // cmd
-        // as terminal
-        // as
     }
 }
